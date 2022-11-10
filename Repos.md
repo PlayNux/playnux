@@ -38,7 +38,8 @@ https://github.com/PlayNux/switchboard-plug-printers
 https://github.com/PlayNux/switchboard-plug-pantheon-shell
 https://github.com/PlayNux/switchboard-plug-wacom
 
-##Development tools
+<h1>Development tools</h1>
+<br>
 <a href="https://github.com/PlayNux/os">Os Build system</a>
 <br>
 <a href="https://github.com/PlayNux/actions">CI actions</a>
