@@ -37,3 +37,17 @@ https://github.com/PlayNux/switchboard-plug-sharing
 https://github.com/PlayNux/switchboard-plug-printers
 https://github.com/PlayNux/switchboard-plug-pantheon-shell
 https://github.com/PlayNux/switchboard-plug-wacom
+
+##Development tools
+<a href="https://github.com/PlayNux/os">Os Build system</a>
+<br>
+<a href="https://github.com/PlayNux/actions">CI actions</a>
+<br>
+<a href="https://github.com/PlayNux/seed">Seed for germinator</a>
+<br>
+<a href="https://github.com/PlayNux/metapackage">Metapackages</a>
+<br>
+<a href="https://github.com/PlayNux/iso">Fallback os buildsystem</a>
+<br>
+<a href="https://github.com/PlayNux/platform">Package for CD</a>
+<br>
